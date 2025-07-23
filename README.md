@@ -1,5 +1,3 @@
-# 👋 Hi
-
 ## 🚀 Fullstack Developer | Software Engineer | Backend Specialist
 
 ---
